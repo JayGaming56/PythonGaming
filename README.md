@@ -11,19 +11,19 @@ I am generally available most of the time, from around 2 pm to 10 pm EST, if you
 
 
 # How to run the Game
-    1. You must have Python installed on your system
+1. You must have Python installed on your system
 
-    2. run pip in CMD(command prompt) to see if it installed properly
+2. run pip in CMD(command prompt) to see if it installed properly
 
-    3. Unzip the folder
+3. Unzip the folder
 
-    4. Go to your directory (CD) command on Windows to the folder
+4. Go to your directory (CD) command on Windows to the folder
 
-    5. Then use the pip install -r requirements.txt file provided, which will give you all the assets used in this project.
+5. Then use the pip install -r requirements.txt file provided, which will give you all the assets used in this project.
 
-    6. After you make sure everything is installed correctly using pip list (this will show you all packages downloaded using PYPI Library, where Python stores all its content.)
+6. After you make sure everything is installed correctly using pip list (this will show you all packages downloaded using PYPI Library, where Python stores all its content.)
 
-    7. Double-click the main.py file or right-mouse-click and click open. If you have a text editor like Visual Studio Code or a similar tool, I would open the file or the entire folder in it and then run it, as this can sometimes resolve issues that are known to occur. 
+7. Double-click the main.py file or right-mouse-click and click open. If you have a text editor like Visual Studio Code or a similar tool, I would open the file or the entire folder in it and then run it, as this can sometimes resolve issues that are known to occur. 
 
 # WARNING
 This is a GitHub Repository for the Game, and as I cannot control what others do, please ensure you are very mindful of where you obtain the Game from. The creator of this is JayGaming56, who developed it on December 12, 2025, as a casual game. If, for some reason, you find this on any website other than the ones listed here, it is a bootlegged version and may contain bugs or viruses. Visit GitHub to retrieve the main branch of the Game.
